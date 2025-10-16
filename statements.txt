@@ -1,0 +1,7 @@
+10000 Deposited +100 Balance: 100
+10000 Withdraw -20 Balance: 80
+10000 Withdraw -10 Balance: 70
+10000 Deposited +30 Balance: 100
+10001 Deposited +20 Balance: 20
+10001 Deposited +80 Balance: 100
+10001 Withdraw -50 Balance: 50
